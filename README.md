@@ -57,7 +57,7 @@ Análise da relação entre renda familiar declarada e desempenho no exame.
 ### 🎨 Nota Média por Cor/Raça
 Avaliação das desigualdades educacionais segundo a classificação do INEP.
 
-![Cor/Raça](images/analise3_cor_raca.png)
+![Cor/Raça](images/analise3_cor_raca_label.png)
 
 ---
 
